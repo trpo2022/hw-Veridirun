@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-  printf("puk puk test");
+  printf("Hello, World!");
   return 0;
 }
